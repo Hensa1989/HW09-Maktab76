@@ -1,0 +1,243 @@
+.body {
+    overflow-x: hidden;
+    margin: 0;
+}
+
+.signUp_button {
+    width: 100px;
+    height: 40px;
+    border-radius: 0px;
+    border-color: rgb(163, 163, 163);
+    font-size: 16px;
+    margin-left: 20px;
+    background-color: rgb(240, 239, 239);
+    color: black;
+}
+
+.second_section {
+    background-color: mintcream;
+    height: 500px;
+}
+
+.first-heading {
+    font-size: 60px;
+}
+
+.email_input {
+    border-radius: 0px;
+    border: none;
+}
+
+.my-pic {
+    border-radius: 20px;
+    width: 45px;
+    height: 45px;
+}
+
+.second-heading {
+    font-size: 40px;
+}
+
+.cards {
+    background-color: rgb(249, 249, 249);
+    padding-top: 40px;
+    width: 21%;
+}
+
+.numbers {
+    background-color: rgb(86, 73, 207);
+    width: 42px;
+    height: 42px;
+    border-radius: 30px;
+}
+
+.my_image {
+    font-size: 40px;
+    padding-top: 24px;
+}
+
+.learnMore_button,
+.start_button {
+    border-radius: 0px;
+    width: 145px;
+    margin-bottom: 150px;
+}
+
+.box-container {
+    width: 600px;
+    height: 400px;
+    background-color: rgb(249, 249, 249);
+    position: relative;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.seventh_section2 {
+    margin-left: 110px;
+    margin-top: 240px;
+}
+
+.drag {
+    padding-top: 18px;
+    padding-left: 16px;
+}
+
+.add_more {
+    padding: 30px;
+}
+
+.upper_circle {
+    width: 145px;
+    height: 145px;
+    border-radius: 100px;
+    background-color: rgb(86, 73, 207);
+    position: absolute;
+    top: -40px;
+}
+
+.facebook {
+    width: 230px;
+    height: 90px;
+    background-color: white;
+    box-shadow: 2px 2px 7px lightgray;
+    margin-left: 390px;
+    margin-top: -50px;
+}
+
+.drag_box {
+    width: 250px;
+    height: 100px;
+    background-color: rgb(249, 249, 249);
+    border: 1px dashed rgb(189, 187, 187);
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.task {
+    width: 330px;
+    height: 85px;
+    background-color: white;
+    box-shadow: 2px 2px 7px lightgray;
+    margin-left: 370px;
+    margin-top: 70px;
+}
+
+.plus_circle {
+    padding-right: 10px;
+    font-size: 25px;
+    color: lightblue;
+}
+
+.boy-img {
+    margin-bottom: 150px;
+    height: 350px;
+}
+
+.boy_line {
+    width: 350px;
+    height: 2px;
+    background-color: black;
+    border-radius: 1px;
+}
+
+.homework {
+    margin-top: 100px
+}
+
+.email_homework {
+    border-radius: 0px;
+    color: rgb(69, 58, 166);
+    border: 1px solid rgb(69, 58, 166);
+}
+
+.nineth_section {
+    background-color: rgb(86, 73, 207);
+}
+
+.learn_more {
+    color: rgb(86, 73, 207);
+    width: 340px;
+    border-radius: 0px;
+
+}
+
+.line {
+    width: 350px;
+    height: 2px;
+    background-color: white;
+    border-radius: 2px;
+}
+
+.social-network {
+    background-color: white;
+    border: 1px solid rgb(75, 176, 110);
+    margin-left: 6px;
+    border-radius: 45px;
+    padding: 5px;
+    color: rgb(75, 176, 110);
+    ;
+}
+
+.facebook_social {
+    margin-left: 7px;
+    border-radius: 50px;
+    border: 1px solid rgb(75, 176, 110);
+    padding: 5px;
+    color: white;
+    background-color: rgb(75, 176, 110);
+
+}
+
+.mail-envelop {
+    color: rgb(250, 227, 231);
+    font-size: 55px;
+    padding-right: 12px;
+}
+
+.circle {
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: rgb(56, 132, 82);
+    margin-left: 30px;
+    margin-top: -18px;
+    position: relative;
+}
+
+.envelop_circle {
+    position: relative;
+}
+
+.learn {
+    color: rgb(62, 104, 104);
+}
+
+.tenth_section {
+    margin-top: 100px;
+}
+
+.Social_icons {
+    margin-left: 15px;
+}
+
+.eleventh_section {
+    margin-top: 40px;
+}
+
+.footer {
+    color: rgb(94, 92, 92);
+}
+
+.email_button {
+    font-size: 18px;
+    color: white;
+}
+
+.email_submit {
+    margin-top: 5px;
+    background-color: rgb(69, 58, 166);
+    border: none;
+    border-radius: 0;
+    height: 40px;
+    width: 76px;
+}
